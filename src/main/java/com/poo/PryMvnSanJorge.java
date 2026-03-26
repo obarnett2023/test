@@ -5,5 +5,7 @@ public class PryMvnSanJorge {
         Factura oFactura = new Factura();
         //IMPRIMIR DATOS DE LA FACTURA
         oFactura.imprimirFactura();
+        
+        System.out.println("chao mudo");
     }
 }
